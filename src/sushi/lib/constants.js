@@ -32,19 +32,6 @@ export const supportedPools = [
     tokenSymbol: 'DAI',
     icon: '💸',
   },
-  {
-    pid: 1,
-    lpAddresses: {
-      4: '0x03e6c12ef405ac3f642b9184eded8e1322de1a9e', // LP Token Address
-    },
-    tokenAddresses: {
-      4: '0x5592ec0cfb4dbc12d3ab100b257153436a1f0fea', // Token, i.e. "DAI"
-    },
-    name: 'USDC-ETH LP',
-    symbol: 'USDC-ETH LP',
-    tokenSymbol: 'USDC',
-    icon: '💰',
-  },
 ]
 
 
